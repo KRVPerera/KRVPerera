@@ -8,8 +8,12 @@
 [<img align="left" alt="KRVPerera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="krvperera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
 <br />
+<br />
+
+---
+
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -30,6 +34,8 @@ Here are some ideas to get you started:
 -->
 
 <br />
+<br />
+
 ---
 
 <img align="left" alt="KRVPerera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KRVPerera&show_icons=true&hide_border=true" />
