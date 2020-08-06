@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<br />
 ---
 
 <img align="left" alt="KRVPerera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KRVPerera&show_icons=true&hide_border=true" />
