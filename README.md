@@ -23,3 +23,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+[website]: https://krvpeerera.com
+[twitter]: https://twitter.com/KRVPerera
+[linkedin]: https://linkedin.com/in/krvperera
