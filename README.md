@@ -13,7 +13,6 @@
 
 ---
 
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Using Jinja to generate HTML pages](https://medium.com/@KRVPerera/using-jinja-to-generate-html-pages-3fb54cf8fbc8?source=rss-32e09e3b70ea------2)
@@ -36,7 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
 <br />
 
 ---
