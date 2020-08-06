@@ -16,6 +16,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Jinja to generate HTML pages](https://medium.com/@KRVPerera/using-jinja-to-generate-html-pages-3fb54cf8fbc8?source=rss-32e09e3b70ea------2)
+- [Downloads Organizing with Automator](https://medium.com/@KRVPerera/downloads-organizing-with-automator-2a6b648e2ab1?source=rss-32e09e3b70ea------2)
+- [Shoutout for Kalle Hallden!](https://medium.com/@KRVPerera/shoutout-for-kalle-hallden-f27a72fe9096?source=rss-32e09e3b70ea------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
