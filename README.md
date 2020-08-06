@@ -20,6 +20,12 @@
 - [Shoutout for Kalle Hallden!](https://medium.com/@KRVPerera/shoutout-for-kalle-hallden-f27a72fe9096?source=rss-32e09e3b70ea------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### Language Card
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRVPerera)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **KRVPerera/KRVPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,9 +40,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br />
-
 ---
 
 <img align="left" alt="KRVPerera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KRVPerera&show_icons=true&hide_border=true" />
