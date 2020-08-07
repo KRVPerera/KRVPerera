@@ -1,13 +1,14 @@
 ### Hi there, I am Rukshan Perera (KRVPerera) 👋
 
+- 🔭 I’m currently dancing on Ballerina compiler front end
+- 🌱 I’m currently learning to draw
+- :zap: I'm working on a project which involves Ballerina and react
 
 ### Connect with me:
 
 [<img align="left" alt="krvperera.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/person.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="KRVPerera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="krvperera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 <br />
 <br />
 
@@ -29,8 +30,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
