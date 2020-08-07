@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 <img align="left" alt="KRVPerera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KRVPerera&show_icons=true&hide_border=true" />
 
-[website]: https://www.krvperera.com
+[website]: https://krvperera.com
 [twitter]: https://twitter.com/KRVPerera
 [linkedin]: https://linkedin.com/in/krvperera
