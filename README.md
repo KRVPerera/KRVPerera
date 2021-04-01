@@ -24,7 +24,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.krvperera.vercel.app/api/top-langs/?username=KRVPerera&layout=compact&langs_count=9)](https://github.com/KRVPerera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.krvperera.vercel.app/api/top-langs/?username=KRVPerera&layout=compact&langs_count=12)](https://github.com/KRVPerera/github-readme-stats)
 
 <!--
 **KRVPerera/KRVPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
