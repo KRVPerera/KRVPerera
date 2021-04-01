@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-<img align="left" alt="KRVPerera's Github Stats" src="https://github-readme-stats.krvperera.vercel.app/api?username=KRVPerera&show_icons=true&hide_border=true" />
+<img align="left" alt="KRVPerera's Github Stats" src="https://github-readme-stats.krvperera.vercel.app/api?username=KRVPerera&show_icons=true&hide_border=true&show_icons=true&theme=gruvbox" />
 
 [website]: https://krvperera.com
 [twitter]: https://twitter.com/KRVPerera
