@@ -1,8 +1,23 @@
 ### Hi there, I am Rukshan Perera (KRVPerera) 👋
 
 - 🔭 I’m currently dancing on Ballerina compiler front end
-- 🌱 I’m currently learning to draw
-- :zap: I'm working on a project which involves Ballerina and react
+- :zap: I'm working on personal project which are purely written in C++
+- 🌱 I’m also learning about pixel art and 3D hard surface modelling
+- I cannot work on small improvements on skills to achieve a skill but I can optimize for passion and have burst of focus on tasks to get things done.
+  This is how I did this [HD Movie Club](https://hdmovieclub.netlify.app/). Pomodoro technique does not work for me.
+- I am like Tinker Bell; always creating tools to speed up my work
+- My Passions
+  - 3D Design (Blender)
+  - C++ (mostly writing efficient code - Optimization)
+  - QT - of course to help create end products in C++, I like C# + Visual Studio combination to create UIs but does not like windows as a development environment.
+  - Learning Piano (electric organ)
+  - Learning Java Script (I hated java script for no reason at all, but lately I figured it allowed me to create a finished product easily and it is easy to reach people. I also understand that learning a framework like react does not add good skills to you unless I understand what is happenign underneath.)
+  - Isekai, Fantasy, Science Fiction
+    - Reading audio books and reading fantasy books. I love to listen to Isekai genre in Audible.
+    - I also like to watch anime related to this generes
+    - Video Games (Elden Ring, StarDew Valley, Skyrim, Witcher, Driving Simulators, etc..)
+  - Speed Reading (still practicing)
+  - Fast Typing Speed (still practicing Highest : 78.71 WPM and Average : 57 WPM)
 
 ### Connect with me:
 
