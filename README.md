@@ -5,7 +5,7 @@
 - 🌱 I’m also learning about pixel art and 3D hard surface modelling
 - I cannot work on small improvements on skills to achieve a skill but I can optimize for passion and have burst of focus on tasks to get things done.
   This is how I did this [HD Movie Club](https://hdmovieclub.netlify.app/). Pomodoro technique does not work for me.
-- I am like Tinker Bell; always creating tools to speed up my work
+- I am like Tinker Bell; always creating tools to speed up my work and of team members. Of course I share the tools I create for my self. This is how I ended up creating this [Balty](https://marketplace.visualstudio.com/items?itemName=KRVPerera.balty)
 - My Passions
   - 3D Design (Blender)
   - C++ (mostly writing efficient code - Optimization)
