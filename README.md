@@ -9,7 +9,7 @@
 - My Passions
   - 3D Design (Blender)
   - C++ (mostly writing efficient code - Optimization)
-  - QT - of course to help create end products in C++, I like C# + Visual Studio combination to create UIs but does not like windows as a development environment.
+  - QT/wxWidgets - of course to help create end products in C++, QT on linux env and wxWidgets on windows
   - :musical_keyboard: Learning Piano (electric organ)
   - Learning Java Script (I hated java script for no reason at all, but lately I figured it allowed me to create a finished product easily and it is easy to reach people. I also understand that learning a framework like react does not add good skills to you unless I understand what is happenign underneath.)
   - Isekai, :mermaid: Fantasy, Science :dna: Fiction
