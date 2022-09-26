@@ -1,6 +1,7 @@
 ### Hi there, I am Rukshan Perera (KRVPerera) 👋
 
-- 🔭 I’m currently dancing on Ballerina compiler front end
+- I am working in EDA industry now and using C++ 
+- 🔭 I’m worked on Ballerina compiler front end
 - :zap: I'm working on personal project which are purely written in C++
 - 🌱 I’m also learning about pixel art and 3D hard surface modelling
 - :hourglass_flowing_sand: I cannot work on small improvements on skills to achieve a skill but I can optimize for passion and have burst of focus on tasks to get things done.
@@ -17,7 +18,7 @@
     - I also like to watch :clapper: anime related to this generes
     - Video Games ( :crossed_swords: Elden Ring, :seedling: StarDew Valley, :hammer_and_wrench: Ratchet and Clank, Skyrim, :mage_man: Witcher 3, Driving Simulators, etc..)
   - Speed Reading (still practicing)
-  - Fast Typing Speed (still practicing Highest : 78.71 WPM and Average : 57 WPM)
+  - Fast Typing Speed (still practicing Highest : 78.71 WPM and Average : 58 WPM)
 
 #### Links
 
