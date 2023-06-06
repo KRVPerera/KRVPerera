@@ -3,20 +3,20 @@
 - I am working in EDA industry now and using C++ 
 - 🔭 I’m worked on Ballerina compiler front end
 - :zap: I'm working on personal project which are purely written in C++
-- 🌱 I’m also learning about pixel art and 3D hard surface modelling
+- 🌱 I’m learning 3D hard surface modelling
 - :hourglass_flowing_sand: I cannot work on small improvements on skills to achieve a skill but I can optimize for passion and have burst of focus on tasks to get things done.
-  This is how I did this [HD Movie Club](https://hdmovieclub.netlify.app/). Pomodoro technique does not work for me.
+  This is how I did this [HD Movie Club](https://hdmovieclub.netlify.app/).
 - :fairy_woman: I am like Tinker Bell; always creating tools to speed up my work and of team members. Of course I share the tools I create for my self. This is how I ended up creating this [Balty](https://marketplace.visualstudio.com/items?itemName=KRVPerera.balty)
 - My Passions
   - 3D Design (Blender)
   - C++ (mostly writing efficient code - Optimization)
   - QT/wxWidgets - of course to help create end products in C++, QT on linux env and wxWidgets on windows
   - :musical_keyboard: Learning Piano (electric organ)
-  - Learning Java Script (I hated java script for no reason at all, but lately I figured it allowed me to create a finished product easily and it is easy to reach people. I also understand that learning a framework like react does not add good skills to you unless I understand what is happenign underneath.)
+  - Learning Java Script (I hated java script before but I also understand that learning a framework like react does not add good skills to you unless I understand what is happenign underneath.)
   - Isekai, :mermaid: Fantasy, Science :dna: Fiction
     - Reading audio books and reading fantasy books. I love to listen to Isekai genre in Audible.
     - I also like to watch :clapper: anime related to this generes
-    - Video Games ( :crossed_swords: Elden Ring, :seedling: StarDew Valley, :hammer_and_wrench: Ratchet and Clank, Skyrim, :mage_man: Witcher 3, Driving Simulators, etc..)
+    - Video Games ( :crossed_swords: Elden Ring, :mage_man: Witcher 3, Driving Simulators, etc..)
   - Speed Reading (still practicing)
   - Fast Typing Speed (still practicing Highest : 78.71 WPM and Average : 58 WPM)
 
