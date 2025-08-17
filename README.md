@@ -7,7 +7,7 @@ Software Engineer (6+ yrs) back to Masters
 I have joined the industry in 2017 after my BSc, in Computer Science and Engineering. After working in the industry for 6 years I am back at doing MSc, in Computer Science in Oulu university in Finland.
 
 * 🌍  I'm based in Oulu, Finland
-* 🖥️  See my portfolio at [https://www.krvperera.com/](http://www.krvperera.com/)
+* 🖥️  See my portfolio at [http://rukshan-perera.com](http://rukshan-perera.com/)
 * ✉️  You can contact me at [rukshan.viduranga@gmail.com](mailto:rukshan.viduranga@gmail.com)
 * 🚀  I'm currently working on [HdMoviesClub](http://hdmovieclub.netlify.app/)
 * 🧠  I'm learning Masters in Computer Science and Engineering, JS, Rust, Computer Engineering track in my masters
